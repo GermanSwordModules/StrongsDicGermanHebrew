@@ -4,9 +4,15 @@ Strongs based dictionary Hebrew <-> German.
 
 *Warning*: A very first draft.
 
+## Fortschritt
+
+Von 8674 Einträgen sind derzeit 310 manuell überarbeitet. 
+
+![3,57%](https://progress-bar.dev/50)
+
 ## Basis 
 
-Die Basis dieses Lexikons bildet das englischsprachige, gemeinfreie Strong-Wörterbuch von Crosswire. 
+Die Basis dieses Lexikons bildet das englischsprachige, gemeinfreie Strong-Wörterbuch von Crosswire. Dieses wurde zunächst automatisch übersetzt. 
 
 Die Einträge werden nach und nach von Hand überarbeitet (Hilfe ist dabei gerne gesehen). Grundlage der Überarbeitung bildet 
 
@@ -34,6 +40,6 @@ pw = <password>
 filename = ../tei/strongshebr-german.tei.xml
 ```
 
-## Zustand
+## Mithelfen
 
-Es ist noch viel Arbeit zu erledigen. Als erste Orientierung mag es reichen...
+Wer sich an der weiteren Entwicklung beteiligen möchte, kann sich gerne über den Issue-Tracker melden. 
