@@ -8,7 +8,7 @@ Strongs based dictionary Hebrew <-> German.
 
 Von 8674 Einträgen sind derzeit 310 manuell überarbeitet. 
 
-![3,57%](https://progress-bar.dev/50)
+![3,57%](https://progress-bar.dev/3,57)
 
 ## Basis 
 
