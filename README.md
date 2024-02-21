@@ -6,9 +6,9 @@ Strongs based dictionary Hebrew <-> German.
 
 ## Fortschritt
 
-Von 8674 Einträgen sind derzeit 310 manuell überarbeitet. 
+Von 8674 Einträgen sind derzeit 401 manuell überarbeitet. 
 
-![3,57%](https://progress-bar.dev/3)
+![4,62%](https://progress-bar.dev/4)
 
 ## Basis 
 
