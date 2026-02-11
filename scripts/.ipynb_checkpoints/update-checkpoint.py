@@ -20,7 +20,7 @@ pw = config['SERVER']['pw'].strip()
 filename = config['PATH']['filename'].strip()
 
 # Connecting to Wiki
-site = Site(site,path=pathv,retry_timeout=120)
+site = Site(site,path=pathv)
 if login:
 	site.login(name,pw)
 
